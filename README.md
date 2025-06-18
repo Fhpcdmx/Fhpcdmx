@@ -29,6 +29,7 @@ Bienvenido/a a mi perfil de GitHub. Aquí comparto mis proyectos, aprendizajes y
 
 #### 🗃️ Bases de Datos
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
 #### 📊 BI y Visualización
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
@@ -43,6 +44,6 @@ Bienvenido/a a mi perfil de GitHub. Aquí comparto mis proyectos, aprendizajes y
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=flat&logo=agile&logoColor=white)
+
 
 Gracias por visitar mi perfil 😊
