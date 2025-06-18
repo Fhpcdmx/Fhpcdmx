@@ -40,6 +40,14 @@ Bienvenido/a a mi perfil de GitHub. Aquí comparto mis proyectos, aprendizajes y
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![Vertex AI](https://img.shields.io/badge/Vertex_AI-34A853?style=flat&logo=googlecloud&logoColor=white)
 
+#### 🌍 Mapas y APIs
+![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=flat&logo=openstreetmap&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+
+#### 🎨 Visualización
+![Canvas_JS](https://img.shields.io/badge/Canvas_JS-FF6C37?style=flat&logo=javascript&logoColor=white)
+
 #### 🧪 Otros
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
